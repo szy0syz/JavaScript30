@@ -5,8 +5,6 @@
 
 ## 目录
 
-## 目录
-
 1. [ ] [JavaScript Drum Kit  指南](https://github.com/soyaine/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit) |  [纯 JS 模拟敲鼓效果](http://soyaine.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index-SOYAINE.html)
 2. [ ] [JS + CSS Clock 指南](https://github.com/soyaine/JavaScript30/tree/master/02%20-%20JS%20%2B%20CSS%20Clock) |  [纯 JavaScript+CSS 时钟效果](http://soyaine.github.io/JavaScript30/02%20-%20JS%20%2B%20CSS%20Clock/index-SOYAINE.html)
 3. [ ] [CSS Variables 指南](https://github.com/soyaine/JavaScript30/tree/master/03%20-%20CSS%20%Variables) |  [用 CSS 变量实现拖动控制参数效果](http://soyaine.github.io/JavaScript30/03%20-%20CSS%20Variables/index-SOYAINE.html)
@@ -37,3 +35,8 @@
 28. [ ] Video Speed Controller
 29. [ ] Countdown Timer
 30. [ ] Whack A Mole
+
+
+## 参考
+
+[@soyaine/JavaScript30](https://github.com/soyaine/JavaScript30)
